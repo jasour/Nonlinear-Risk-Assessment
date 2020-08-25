@@ -1,6 +1,6 @@
 # Nonlinear-Risk-Assessment in GloptiPoly (moment SDP Formulation)
 
-GloptiPoly receives the risk assessment problem and solve the moment SDP. 
+GloptiPoly solves the moment SDP to calculate the Risk. 
 We use the solution of the dual SDP to calculate the risk. Solution of the dual SDP is the coefficients of the polynomial indicator function.
 
 To run the codes you need the following packages in MATLAB:
